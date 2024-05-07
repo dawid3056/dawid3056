@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 During studies I have already acquired knowledge in the area of programming (C++, Flutter) that I would like to develop through practical experience. I am looking for an internship. I operate well in remote mode or may come to the office.
 
 * 🌍  I'm based in Cracow
-* 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/dawid3056)
+* 🖥️  See my portfolio at [MyPortfolio](https://github.com/dawid3056?tab=repositories)
 * ✉️  You can contact me at [dawid3056@gmail.com](mailto:dawid3056@gmail.com)
 * 🤝  I'm open to collaborating on mobile and desktop application projects
 
